@@ -1,1 +1,1 @@
-Internal Implemenation of All ADT's using the approriate Data strcuture
+Internal Implemenation of All ADT's using the appropriate Data strcuture
